@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/ZenboGoToLocation/ZenboGoToLocation.iml" filepath="$PROJECT_DIR$/ZenboGoToLocation/ZenboGoToLocation.iml" />
       <module fileurl="file://$PROJECT_DIR$/ZenboHelloWorld/ZenboHelloWorld.iml" filepath="$PROJECT_DIR$/ZenboHelloWorld/ZenboHelloWorld.iml" />
       <module fileurl="file://$PROJECT_DIR$/Zenbo_Connect.iml" filepath="$PROJECT_DIR$/Zenbo_Connect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/connect/connect.iml" filepath="$PROJECT_DIR$/connect/connect.iml" />
     </modules>
   </component>
 </project>

@@ -14,6 +14,7 @@
             <option value="$PROJECT_DIR$/ZenboDialogSample" />
             <option value="$PROJECT_DIR$/ZenboGoToLocation" />
             <option value="$PROJECT_DIR$/ZenboHelloWorld" />
+            <option value="$PROJECT_DIR$/connect" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
